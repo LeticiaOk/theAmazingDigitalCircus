@@ -1,0 +1,13 @@
+img.collections-banner {
+  width: 100%;
+}
+
+h1.collections-title {
+  position: relative;
+  bottom: 140px;
+  text-align: center;
+  font-family: "Mouse Memoirs", sans-serif;
+  color: #FFFFFF;
+  font-size: 60px;
+  font-weight: normal;
+}

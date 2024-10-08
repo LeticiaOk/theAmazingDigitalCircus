@@ -1,0 +1,389 @@
+[
+    {
+        "id": 1,
+        "name": "Digital Circus Pilot Vinyl Record",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/Vinyl-Record.png?v=1708659051&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/DC-Vinyl-Record_02.png?v=1708659051&width=1080"
+        },
+        "price": 167.00
+    },
+    {
+        "id": 2,
+        "name": "Pomni Cap",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/Pomni-Cap-01.png?v=1701756598&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/Pomni-Cap-02.png?v=1701756598&width=1080"
+        },
+        "price": 140.00
+    },
+    {
+        "id": 3,
+        "name": "Digital Circus Sticker Pack 2",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/DC-Stickers-Pack-02-Candy-Kingdom_01.png?v=1712121943&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/DC-Stickers-Pack-02-Candy-Kingdom_03.png?v=1712121948&width=1080"
+        },
+        "price": 56.00
+    },
+    {
+        "id": 4,
+        "name": "Digital Circus Sticker Pack 1",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/DC-Sticker-Pack-01.png?v=1706765288&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/DC-Sticker-Pack-02.png?v=1706765288&width=1080"
+        },
+        "price": 56.00
+    },
+    {
+        "id": 5,
+        "name": "Bubble Pin",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/Bubble-Pin-01.png?v=1706762477&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/Bubble-Pin-02.png?v=1706762477&width=1080"
+        },
+        "price": 67.00
+    },
+    {
+        "id": 6,
+        "name": "Zooble Pin",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/Zooble-Pin_02.png?v=1711412890&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/Zooble-Pin_01.png?v=1711412890&width=1080"
+        },
+        "price": 67.00
+    },
+    {
+        "id": 7,
+        "name": "Gangle Pin",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/Gangle-Pin_01.png?v=1711412977&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/Gangle-Pin_02.png?v=1711412976&width=1080"
+        },
+        "price": 67.00
+    },
+    {
+        "id": 8,
+        "name": "Kinger Pin",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/Kinger-Pin_02.png?v=1711413071&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/Kinger-Pin_01.png?v=1711413071&width=1080"
+        },
+        "price": 67.00
+    },
+    {
+        "id": 9,
+        "name": "Ragatha Pin",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/Ragatha-Pin_01.png?v=1711413152&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/Ragatha-Pin_02.png?v=1711413152&width=1080"
+        },
+        "price": 67.00
+    },
+    {
+        "id": 10,
+        "name": "Jax Pin",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/Jax-Pin_01.png?v=1711412781&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/Jax-Pin_02.png?v=1711412781&width=1080"
+        },
+        "price": 67.00
+    },
+    {
+        "id": 11,
+        "name": "Pomni Pin",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/Pomni-Pin-01.png?v=1706762925&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/Pomni-Pin-02.png?v=1706762926&width=1080"
+        },
+        "price": 67.00
+    },
+    {
+        "id": 12,
+        "name": "Caine Pin",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/Pin_Caine-02.png?v=1702360126&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/Pin_Caine.png?v=1702360126&width=1080"
+        },
+        "price": 67.00
+    },
+    {
+        "id": 13,
+        "name": "Gummigoo Keychain Figurine",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/Gummigoo-Keychain_01.png?v=1714378587&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/Gummigoo-Keychain_06.png?v=1714447806&width=1080",
+            "preview_before": "https://i.shgcdn.com/e6f07217-3ae5-4f04-b589-0b06396aa329/-/format/auto/-/preview/3000x3000/-/quality/lighter/-/resize/1920x/",
+            "preview_after": "https://i.shgcdn.com/d9dd0a41-3dd3-40eb-a4e2-f80d72e25a67/-/format/auto/-/preview/3000x3000/-/quality/lighter/-/resize/1920x/"
+        },
+        "price": 89.00
+    },
+    {
+        "id": 14,
+        "name": "Pomni Keychain",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/Keychain_Pomni-01.png?v=1701756039&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/Keychain_Pomni-02.png?v=1701756038&width=1080",
+            "preview_before": "https://i.shgcdn.com/ff0cd766-5249-4b87-ada6-cb3de0aad372/-/format/auto/-/preview/3000x3000/-/quality/lighter/-/resize/1920x/",
+            "preview_after": "https://i.shgcdn.com/61a07749-90ec-4894-9be8-3ff517dbe314/-/format/auto/-/preview/3000x3000/-/quality/lighter/-/resize/1920x/"
+        },
+        "price": 73.00
+    },
+    {
+        "id": 15,
+        "name": "Caine Keychain",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/Keychain_Caine-01.png?v=1701755931&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/Keychain_Caine-02_ca658c3e-cb72-4da6-afcd-321f25353e59.png?v=1702423931&width=1080"
+        },
+        "price": 73.00
+    },
+    {
+        "id": 16,
+        "name": "Jax Animatez",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/Jax-Animatez_01.png?v=1714089457&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/Jax-Animatez_02.png?v=1714089458&width=1080"
+        },
+        "price": 167.00
+    },
+    {
+        "id": 17,
+        "name": "Caine Animatez",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/Caine-Animatez-01.png?v=1707357674&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/Caine-Animatez-02.png?v=1707357674&width=1080"
+        },
+        "price": 167.00
+    },
+    {
+        "id": 18,
+        "name": "Pomni Animatez",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/Pomni-Animatez-01.png?v=1707356416&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/Pomni-Animatez-02.png?v=1707356416&width=1080",
+            "preview_before": "https://i.shgcdn.com/3fb002ca-ae9d-4860-8d32-c9a9480a8f8d/-/format/auto/-/preview/3000x3000/-/quality/lighter/-/resize/1920x/",
+            "preview_after": "https://i.shgcdn.com/517fe0a1-e656-43cb-b40f-800a9dbac011/-/format/auto/-/preview/3000x3000/-/quality/lighter/-/resize/1920x/"
+        },
+        "price": 167.00
+    },
+    {
+        "id": 19,
+        "name": "Retro Carnival T-Shirt",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/Retro-Tshirt-Blue.png?v=1712019178&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/Retro-Tshirt-White.png?v=1712019178&width=1080"
+        },
+        "price": 156.00
+    },
+    {
+        "id": 20,
+        "name": "Out of Pocket T-Shirt",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/DC-T-shirt-Polit-01.png?v=1701754151&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/DC-T-shirt-Polit-02.png?v=1701754151&width=1080"
+        },
+        "price": 156.00
+    },
+    {
+        "id": 21,
+        "name": "Jax \"Iconic Quote\" Jumper",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/Retro-Tshirt-Blue.png?v=1712019178&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/Retro-Tshirt-White.png?v=1712019178&width=1080",
+            "preview_before": "https://i.shgcdn.com/81d531d6-c754-4fab-9f60-035cabf13b8b/-/format/auto/-/preview/3000x3000/-/quality/lighter/-/resize/1920x/",
+            "preview_after": "https://i.shgcdn.com/d1ad0a27-9ca1-4de0-9900-479fefba37cf/-/format/auto/-/preview/3000x3000/-/quality/lighter/-/resize/1920x/"
+        },
+        "price": 279.00
+    },
+    {
+        "id": 22,
+        "name": "The Amazing Digital Circus Poster",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/DC-poster_Default-01.png?v=1701754893&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/DC-poster_Default-02.png?v=1701754893&width=1080",
+            "preview_before": "https://i.shgcdn.com/07a5b9bd-3c19-42dd-b4c7-77001f05f686/-/format/auto/-/preview/3000x3000/-/quality/lighter/-/resize/1920x/",
+            "preview_after": "https://i.shgcdn.com/4d06a2eb-8b09-47c7-8412-0a5e09432d71/-/format/auto/-/preview/3000x3000/-/quality/lighter/-/resize/1920x/"
+        },
+        "price": 140.00
+    },
+    {
+        "id": 23,
+        "name": "Gummigoo Plush",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/Gummigoo-Plush_02.png?v=1719388435&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/Gummigoo-Plush_01.png?v=1719388435&width=1080",
+            "preview_before": "https://i.shgcdn.com/7847edf4-e994-4bf3-9620-cdfe1cf309f9/-/format/auto/-/preview/3000x3000/-/quality/lighter/-/resize/1920x/",
+            "preview_after": "https://i.shgcdn.com/1e427c1b-966d-432b-b6e1-ef08f456328a/-/format/auto/-/preview/3000x3000/-/quality/lighter/-/resize/1920x/"
+        },
+        "price": 168.00
+    },
+    {
+        "id": 1111,
+        "name": "Zooble Plush",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/Zooble-Plush_01_d91aff51-0f4d-40fc-a7e7-ac2cfb1842c5.png?v=1713942635&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/Zooble-Plush_03_36524020-d87d-403a-8f81-e17539339354.png?v=1713942635&width=1080"
+        },
+        "price": 168.00
+    },
+    {
+        "id": 24,
+        "name": "Kinger Plush",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/King-Plush_01.png?v=1712122592&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/King-Plush_02.png?v=1712122591&width=1080",
+            "preview_before": "https://i.shgcdn.com/7ab2a70c-bcc3-4c81-bc3d-58f903db3c82/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+            "preview_after": "https://i.shgcdn.com/33cf2c5f-d769-47f6-a8c0-3ff3bcd56815/-/format/auto/-/preview/3000x3000/-/quality/lighter/"
+        },
+        "price": 168.00
+    },
+    {
+        "id": 25,
+        "name": "Ragatha Plush",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/Ragatha-Plush_01.png?v=1713942005&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/Ragatha-Plush_02.png?v=1713942005&width=1080"
+        },
+        "price": 168.00
+    },
+    {
+        "id": 26,
+        "name": "Caine Plush",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/Caine-Plush-Front-View.png?v=1706762057&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/Caine-Plush-03.png?v=1706762057&width=1080"
+        },
+        "price": 168.00
+    },
+    {
+        "id": 27,
+        "name": "Jax Plush",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/Plush_Jax-01.png?v=1701757259&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/Plush_Jax-02.png?v=1701757259&width=1080",
+            "preview_before": "https://i.shgcdn.com/640179ee-ce80-4b9f-8ba0-c137e49ec407/-/format/auto/-/preview/3000x3000/-/quality/lightest/-/resize/1920x/",
+            "preview_after": "https://i.shgcdn.com/68b7f3ed-34a7-4807-abd1-23c75184f4c5/-/format/auto/-/preview/3000x3000/-/quality/lighter/-/resize/1920x/"
+        },
+        "price": 168.00
+    },
+    {
+        "id": 28,
+        "name": "Pomni Plush",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/Plush_Pomni-01.png?v=1701757171&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/Plush_Pomni-02.png?v=1701757172&width=1080",
+            "preview_before": "https://i.shgcdn.com/e67f8237-323b-4db1-9462-086c5f02c544/-/format/auto/-/preview/3000x3000/-/quality/lightest/-/resize/1920x/",
+            "preview_after":"https://i.shgcdn.com/4eb23c93-5806-43af-9a2a-240520542e6a/-/format/auto/-/preview/3000x3000/-/quality/lighter/-/resize/1920x/"
+        },
+        "price": 168.00
+    },
+    {
+        "id": 29,
+        "name": "Digital Circus Animiniz: Main Character Series",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/Pomni-Looking-at-the-box-Updated-font-Final.png?v=1721612992&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/Animiniz-Set-Box_c2d3a13c-7f85-4591-96de-bc461ad350aa.png?v=1721713133&width=1080"
+        },
+        "price": 84.00
+    },
+    {
+        "id": 30,
+        "name": "Checkmates Socks",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/sock1_7aef0dc9-7d2d-449e-a49b-46f4977462bb.png?v=1726559277&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/sock3.png?v=1726555542&width=1080",
+            "preview_before": "https://i.shgcdn.com/cf8d892b-7162-4a6c-bc7f-94beebbbe177/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+            "preview_after": "https://i.shgcdn.com/6013df2e-dc70-426d-91d0-1885c9ae1f48/-/format/auto/-/preview/3000x3000/-/quality/lighter/"
+        },
+        "price": 84.00
+    },
+    {
+        "id": 31,
+        "name": "Digital Circus Notebook",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/DC_Notebook_01.png?v=1725600005&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/DC_Notebook_05.png?v=1725600010&width=1080",
+            "preview_before": "https://i.shgcdn.com/80529220-31c5-4d73-81e6-7700a1f91c4f/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+            "preview_after": "https://i.shgcdn.com/c69e7727-afe2-408a-9e31-ca757b62023b/-/format/auto/-/preview/3000x3000/-/quality/lighter/"
+        },
+        "price": 84.00
+    },
+    {
+        "id": 32,
+        "name": "Kinger Tote Bag",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/Kinger_Tote_Bag_01.png?v=1725425423&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/Kinger_Tote_Bag_02.png?v=1725425424&width=1080",
+            "preview_before": "https://i.shgcdn.com/6cb7bdb8-ff9c-4a7c-a66a-2dd994a847b9/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+            "preview_after": "https://i.shgcdn.com/eb6c6684-75fa-435b-83bd-92523864535b/-/format/auto/-/preview/3000x3000/-/quality/lighter/"
+        },
+        "price": 140.00
+    },
+    {
+        "id": 33,
+        "name": "Kinger Keychain Plush",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/Kinger_Plush_Keychain_03.png?v=1725423006&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/321.png?v=1727929238&width=1080",
+            "preview_before": "https://i.shgcdn.com/0de044df-3e16-4ec4-bb32-caa29b51b782/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+            "preview_after": "https://i.shgcdn.com/5f6da96b-83e8-4af2-9167-d1bf37cfded3/-/format/auto/-/preview/3000x3000/-/quality/lighter/"
+        },
+        "price": 84.00
+    },
+    {
+        "id": 34,
+        "name": "Big Pomni Plush",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/BigPomniPlush_01.png?v=1724916434&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/BigPomniPlush_02.png?v=1724916434&width=1080",
+            "preview_before": "https://i.shgcdn.com/ccd743b7-1188-4e9f-a3db-f7303b6b3f11/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+            "preview_after": "https://i.shgcdn.com/89a36172-a69c-4f62-8467-1b87ac093ba1/-/format/auto/-/preview/3000x3000/-/quality/lighter/"
+        },
+        "price": 279.00
+    },
+    {
+        "id": 35,
+        "name": "Zooble Animatez",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/Zooble_Animatez_01.png?v=1724309552&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/Zooble_Animatez_02.png?v=1724309552&width=1080",
+            "preview_before": "https://i.shgcdn.com/0d3e9a26-3565-4728-be2c-085acae8f8e8/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+            "preview_after": "https://i.shgcdn.com/f12d2f7c-effd-48f9-a0bb-cfe319e90e4e/-/format/auto/-/preview/3000x3000/-/quality/lighter/"
+        },
+        "price": 168.00
+    },
+    {
+        "id": 36,
+        "name": "Kinger Animatez",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/Kinger_Animatez_01.png?v=1724309073&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/Kinger_Animatez_02.png?v=1724309073&width=1080",
+            "preview_before": "https://i.shgcdn.com/2136f610-8d8f-4b2c-93dc-69d7786e5265/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+            "preview_after": "https://i.shgcdn.com/8c9a6e48-a666-4888-9180-9cffcd966f42/-/format/auto/-/preview/3000x3000/-/quality/lighter/"
+        },
+        "price": 168.00
+    },
+    {
+        "id": 37,
+        "name": "Angel Plush",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/Angel_Plush_01.png?v=1724305241&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/Angel_Plush_06.png?v=1724305240&width=1080",
+            "preview_before": "https://i.shgcdn.com/646c179a-0551-4abd-a53f-dc840276b36c/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+            "preview_after": "https://i.shgcdn.com/2f48b3f9-6ead-4ca3-ba62-5bdb35da8d52/-/format/auto/-/preview/3000x3000/-/quality/lighter/"
+        },
+        "price": 196.00
+    },
+    {
+        "id": 38,
+        "name": "Pomni Jacket",
+        "image":{
+            "collections_before": "https://glitchproductions.store/cdn/shop/files/Pomni_Jacket_1.png?v=1725601287&width=1080",
+            "collections_after": "https://glitchproductions.store/cdn/shop/files/Pomni_Jacket_2.png?v=1725601301&width=1080",
+            "preview_before": "https://i.shgcdn.com/e3c97849-0493-4d53-a75f-d224ef28129d/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+            "preview_after": "https://i.shgcdn.com/1abfdd63-c11e-43d4-b6dd-47af2d667447/-/format/auto/-/preview/3000x3000/-/quality/lighter/"
+        },
+        "price": 335.00
+    }
+]

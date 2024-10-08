@@ -1,0 +1,20 @@
+div.product{
+    text-align: center;
+    color: #2e2d2d;
+}
+img.product-image{
+    width: 276px;
+    border-radius: 16px;
+}
+
+p.product-name{
+    font-family: "Mouse Memoirs", sans-serif;
+    font-size: 26px;
+    margin-top: 10px;
+}
+
+p.product-price{
+    font-family: 'Segoe UI', sans-serif;
+    margin-top: 15px;
+    font-size: 20px;
+}
