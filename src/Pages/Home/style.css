@@ -3,7 +3,7 @@ div.background {
   /* height: 100vh; */
 }
 
-video{
+video {
   width: 100%;
 }
 
@@ -18,32 +18,32 @@ h1.preview-title {
   padding-top: 50px;
 }
 
-section.products{
-    width: 80vw;
-    margin: 40px auto 45px auto;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 30px;
+section.products {
+  width: 80vw;
+  margin: 40px auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
 }
 
-img.main-character-series-banner{
+img.main-character-series-banner {
   display: block;
   width: 95vw;
   margin: 0 auto;
 }
 
-button{
+button {
   display: block;
   width: 250px;
   background-color: #B4B4B4;
   margin: auto;
   padding: 5px 0;
   font-family: serif;
-  border-color:#C3C7D2 #a09ea8 #a09ea8 #C3C7D2;
+  border-color: #C3C7D2 #a09ea8 #a09ea8 #C3C7D2;
   font-size: 20px;
 }
 
-button a{
+button a {
   color: #000000;
 }

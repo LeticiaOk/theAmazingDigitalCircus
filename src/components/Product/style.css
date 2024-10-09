@@ -1,9 +1,6 @@
-div.product{
-    text-align: center;
-    color: #2e2d2d;
-}
+
 img.product-image{
-    width: 276px;
+    width: 100%;
     border-radius: 16px;
 }
 
