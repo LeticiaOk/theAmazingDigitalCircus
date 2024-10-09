@@ -1,0 +1,34 @@
+img.collections-banner {
+  width: 100%;
+}
+
+h1.collections-title {
+  position: relative;
+  bottom: 160px;
+  text-align: center;
+  font-family: "Mouse Memoirs", sans-serif;
+  color: #FFFFFF;
+  font-size: 60px;
+  font-weight: normal;
+}
+
+section.products-collection{
+    width: 65vw;
+    margin: 40px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;   
+}
+div.product-collection{
+  text-align: start;
+  color: #2e2d2d;
+  width: calc(33.33% - 30px);
+  text-transform: uppercase;
+  font-family: "Mouse Memoirs", sans-serif;
+}
+
+img.product-img-collection{
+  width: 100%;
+  border-radius: 16px;
+}

@@ -3,6 +3,9 @@ import  './style.css'
 
 const Header = () => {
   return (
+    <>
+    <span>Digital Circus Episode 3 merchandise is here! Get your spoooOOOoooOOoky products in time for Halloween!</span>
+    
     <header>
       <img
         className="logo"
@@ -15,11 +18,12 @@ const Header = () => {
           <li>The Amazing Digital Circus</li>
           <li>Murder Drones</li>
           <li>Glitch Classics</li>
-          <li>Catalogue</li>
+          <li><Link to="/collections">Catalogue</Link></li>
           <li>Animatez</li>
         </ul>
       </nav>
     </header>
+    </>
   );
 }
 

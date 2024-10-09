@@ -1,4 +1,9 @@
-
+div.product{
+    text-align: center;
+    color: #2e2d2d;
+    width: calc(25% - 30px);
+    font-family: "Mouse Memoirs", sans-serif;
+  }
 img.product-image{
     width: 100%;
     border-radius: 16px;
